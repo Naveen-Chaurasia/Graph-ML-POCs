@@ -1,0 +1,51 @@
+[{
+    "points": [25.2048,55.2708, 26.2235,50.5876],
+    "total": 62248,
+    "from": "China",
+    "curvature": 0.5,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom"
+    }
+}, {
+    "points":  [25.2048,55.2708, 26.2235,50.5876],
+    "total": 54495,
+    "from": "India",
+    "curvature": 0.20,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom"
+    }
+}, {
+    "points":  [25.2048,55.2708, 26.2235,50.5876],
+    "total": 156052,
+    "from": "Mexico",
+    "curvature": 0.85,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom",
+        "offsetX": -40
+    }
+}, {
+    "points": [	30.2655, 120.1536, 26.2235,50.5876],
+    "total": 49911,
+    "from": "Dominican Republic",
+    "curvature": 0.6,
+    "label": {
+        "position": "20%",
+        "anchor": "bottom"
+    }
+}, {
+    "points": [26.2235,	50.5876,26.2361,50.0393],
+    "total": 45920,
+    "from": "Philippines",
+    "curvature": 0.40,
+    "label": {
+        "position": "0%",
+        "anchor": "topLeft",
+        "offsetX": 5,
+        "offsetY": 10
+    }
+},
+
+]
