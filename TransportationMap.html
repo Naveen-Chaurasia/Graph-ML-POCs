@@ -22,7 +22,7 @@
 
 
 anychart.onDocumentReady(function () {
-  anychart.data.loadJsonFile(    'https://gist.githubusercontent.com/shacheeswadia/a20ba5b62cef306ccc1a8e8857e5316a/raw/0337b16fa8dc4de97263bc0a4ededf935a529c35/migration-data.json',
+  anychart.data.loadJsonFile(    'https://raw.githubusercontent.com/Naveen-Chaurasia/Graph-ML-POCs/master/Transportaion.json',
     function (data) {
       // Creates map chart
       var map = anychart.connector();
@@ -43,8 +43,8 @@ anychart.onDocumentReady(function () {
         .useHtml(true)
         .padding([0, 0, 40, 0])
         .text(
-          '<span style="color:#212121;">Migrations to the USA from the top 15 countries</span><br/>' +
-          '<span style="font-size: 14px;">Majority of the migrants come from Mexico, Asia and South America</span>'
+          '<span style="color:#212121;">Transportaion of GRPF submaterials</span><br/>' +
+          '<span style="font-size: 14px;"></span>'
         );
     
       // Display all labels even if there is an overlap
