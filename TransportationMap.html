@@ -122,7 +122,7 @@ anychart.onDocumentReady(function () {
           .format(function () {
             return (
               '<h4 style="font-size:14px; font-weight:400; margin: 0.25rem                 0;">From:<b> ' + this.getData('from') +  '</b></h4>' +
-              '<h4 style="font-size:14px; font-weight:400; margin: 0.25rem                 0;">Total Migrants::<b> ' +        this.getData('total').toLocaleString() + '</b></h4>'
+              '<h4 style="font-size:14px; font-weight:400; margin: 0.25rem                 0;">Co2 Emission::<b> ' +        this.getData('total').toLocaleString() + '</b></h4>'
             );
           });
 
@@ -172,7 +172,7 @@ anychart.onDocumentReady(function () {
         .enabled(true)
         .fontSize(13)
         .padding([0, 0, 5, 0])
-        .text('Number of Migrants (in the year 2019)');
+        .text('Co2 Emission in transportation');
     
 
       // Sets container id for the chart
