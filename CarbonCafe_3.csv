@@ -1,0 +1,16 @@
+SubMaterials,Quantity,Chemicals,Level3MaterialCarbonMassPercentage,CarbonAtomsCount,MolarMass,CarbonGmPerMolar,CarbonMassPercentageInMolecule
+Catalyst,0.16,Methyl Ethyl Ketone Peroxide,15.54,8,210.22,96.09,45.71
+Catalyst,0.27,Dimethyl Phthalate,26.6,10,194.18,120.11,61.85
+Catalyst,0.13,"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",13.42,16,286.41,192.17,67.1
+Catalyst,,Hydrogen Peroxide,,,,,
+Catalyst,0.013,Methyl Ethyl Ketone,1.33,4,72.11,48.04,66.62
+Catalyst,,Water,,,,,
+UP Resin,,Antimony Trioxide,,,,,
+UP Resin,0.0011,Cobalt Octoate,0.11,16,345.34,192.17,55.65
+UP Resin,0.0046,Dibromo Neopentyl Glycol,0.46,5,261.94,60.05,22.93
+UP Resin,0.001,Maleic Anhydride,0.1,4,98.06,48.04,48.99
+UP Resin,0.21,Styrene,20.76,8,104.15,96.09,92.26
+UPR Based Gelcoat,0.0011,Cobalt(II) 2-ethylhexanoate,0.11,16,345.34,192.17,55.65
+UPR Based Gelcoat,,Fumed Silicia (CAB-O-SIL),,,,,
+UPR Based Gelcoat,0.005,Maleic Anhydride,0.49,4,98.06,48.04,48.99
+UPR Based Gelcoat,0.35,Styrene,34.6,8,104.15,96.09,92.26
