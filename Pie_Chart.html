@@ -36,7 +36,7 @@ polyline{
 
 </style>
 <body>
-<button class="randomize">randomize</button>
+
 
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <script>
@@ -76,7 +76,7 @@ var key = function(d){ return d.data.label; };
 
 var color = d3.scale.ordinal()
 	.domain(["Lorem ipsum", "dolor sit", "amet", "consectetur", "adipisicing", "elit", "sed", "do", "eiusmod", "tempor", "incididunt"])
-	.range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+	.range(["rgba(255, 69, 96, 0.85)", "rgba(119, 93, 208, 0.85)", "rgba(0, 143, 251, 0.85)", "rgba(0, 227, 150, 0.85)", "rgba(254, 176, 25, 0.85)", "rgba(255, 69, 96, 0.85)", "#ff8c00"]);
 	
 	
 		var Tooltip = d3.select("body")
